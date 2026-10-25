@@ -1,0 +1,1 @@
+// storage.js - handles all localStorage read/write for TripSync
